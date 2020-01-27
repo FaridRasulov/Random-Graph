@@ -18,7 +18,7 @@
   
   5 Let Pc(G) denote the probability that a graph G is connected.
 
-  By running Monte Carlo simulations estimates pc (G) and produce two curve plots:
+  By running Monte Carlo simulations estimates Pc(G) and produce two curve plots:
   
                 Pc(G) vs. p for Erdos-Renyi graphs with n = 100.
                 
