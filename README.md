@@ -1,6 +1,8 @@
 # Random-Graph
 
-# CLICK HERE: https://nbviewer.jupyter.org/github/FaridRasulov/Random-Graph/blob/master/NBD-DC-HW.ipynb?flush_cache=true
+# CLICK HERE TO SEE THE NOTEBOOK: 
+
+https://nbviewer.jupyter.org/github/FaridRasulov/Random-Graph/blob/master/NBD-DC-HW.ipynb?flush_cache=true
 
 ## Part 1:
 
