@@ -1,5 +1,7 @@
 # Random-Graph
 
+# CLICK HERE: https://nbviewer.jupyter.org/github/FaridRasulov/Random-Graph/blob/master/NBD-DC-HW.ipynb?flush_cache=true
+
 ## Part 1:
 
   1 Write a script to generate an p-ER random graph.
